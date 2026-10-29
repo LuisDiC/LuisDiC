@@ -1,16 +1,18 @@
-## Hi there 👋
+# Luis Diego Carrillo Coss y León
+### Senior OT/IIoT & Backend Automation Engineer
+📍 Jalisco, Mexico (Remote) | 🎓 B.S. in Mechatronics Engineering (Licensed - Cédula Profesional)
 
-<!--
-**LuisDiC/LuisDiC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bridging plant-floor Operational Technology (PLCs, Industrial Gateways, Sensors) with enterprise IT infrastructure, modular Python microservices, and AI-driven workflow automation. Over 4 years of hands-on experience designing fault-tolerant edge-to-cloud architectures with 99.9% data reliability.
 
-Here are some ideas to get you started:
+### 🛠 Core Architecture & Tech Stack
+- **Edge & Industrial IoT (OT):** LoRaWAN (ChirpStack, TTN), MQTT, Modbus-RTU/TCP, RS-485, PLC Integration, Milesight Gateways & Industrial Sensors.
+- **Backend & DevOps (IT):** Python, FastAPI, SQLAlchemy, RESTful APIs, Docker, Docker Compose, Linux Administration (Debian/Ubuntu), Oracle Cloud Infrastructure (OCI ARM), Bash, Git.
+- **Databases & Observability:** PostgreSQL, TimescaleDB, MariaDB, MySQL, High-Frequency Time-Series Ingestion, Grafana, Node-RED.
+- **AI & Workflow Orchestration:** Self-Hosted n8n, Local LLMs (Ollama, Qwen, Claude), Evolution API, Agentic Workflows, Webhook Orchestration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Production Architectures
+1. **End-to-End Industrial Telemetry Pipeline:** Plant-wide LoRaWAN & Modbus data collection layer routing high-frequency telemetry via MQTT into TimescaleDB and Grafana dashboards.
+2. **Modular Enterprise ERP Backend:** Containerized Python (FastAPI + SQLAlchemy) microservices automating goods reception, dispatch, and inventory reconciliation.
+3. **Autonomous Diagnostics & AI Orchestration:** Self-hosted n8n and local LLM pipelines reducing manual plant-floor troubleshooting and operational overhead.
+
+📫 **Contact:** ldccy12003@hotmail.com | [LinkedIn](https://www.linkedin.com/in/superld) | [Portfolio](https://luisdic.github.io/)
